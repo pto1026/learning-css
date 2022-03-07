@@ -1,0 +1,40 @@
+1. Define
+    -Who is the website for?
+    -What is the website for? Providing info, selling something, or entertaining (3 most common)
+        *business goal and user goal
+    -Target audience -- be specific.
+
+2. Plan
+    -Gather website content: copy(text), images, videos etc.
+    -for bigger sites, plan out the sitemap.
+    -Define the website personality
+    -Based on content, plan what sections each page needs to convey content's message, and the order
+    
+
+3. Sketch
+    -Components, and layout patterns
+    -Get ideas onto paper, or with Figma or something
+    -experiment until first good solution
+    -don't make it perfict, you don't have to sketch everything
+
+4. Design and Build
+    -Use decisions, content, and sketches from Steps 1, 2, and 3 to design and build the website with html and css
+    -design visual styles
+    -create design based on website personality, design guidelines, and inspiration
+    -use client's branding(colors, typography, icons etc.) whenever possible
+
+5. Test and Optimize
+    -Make sure it works in Chrome, Firefox, Safari, and Edge)
+    -Test on mobile devices
+    -Optimize all images, in terms of dimensions and file size
+    -Fix simple accessibility problems (color contrast issues)
+    -Run the Lighthouse performance test in Chrome DevTools and try to fix reported issues
+    -Think about SEO
+
+6. Launch
+    -upload to hosting platform
+    -choose and buy a great domain name, represents brand, is memorable, and easy to write
+
+7. Maintain and Update
+    -Keep the website content updated over time
+    -A blog that is updated regularly is a good way to keep users coming back, and is also good for SEO
